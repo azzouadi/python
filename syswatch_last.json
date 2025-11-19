@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-19T15:08:49.193252",
+  "timestamp": "2025-11-19T15:55:45.732961",
   "systeme": {
     "os": "Windows",
     "version": "11",
@@ -9,18 +9,18 @@
   "cpu": {
     "coeurs_physiques": 6,
     "coeurs_logiques": 12,
-    "utilisation": 9.8
+    "utilisation": 10.2
   },
   "memoire": {
     "total": 25479180288,
-    "disponible": 6519648256,
-    "pourcentage": 74.4
+    "disponible": 6820929536,
+    "pourcentage": 73.2
   },
   "disques": [
     {
       "point_montage": "C:\\",
       "total": 489622409216,
-      "utilise": 144459255808,
+      "utilise": 144513794048,
       "pourcentage": 29.5
     }
   ]
