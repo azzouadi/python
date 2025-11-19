@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-11-19T15:08:49.193252",
+  "systeme": {
+    "os": "Windows",
+    "version": "11",
+    "architecture": "AMD64",
+    "hostname": "LAPTOP-KEKIJRJG"
+  },
+  "cpu": {
+    "coeurs_physiques": 6,
+    "coeurs_logiques": 12,
+    "utilisation": 9.8
+  },
+  "memoire": {
+    "total": 25479180288,
+    "disponible": 6519648256,
+    "pourcentage": 74.4
+  },
+  "disques": [
+    {
+      "point_montage": "C:\\",
+      "total": 489622409216,
+      "utilise": 144459255808,
+      "pourcentage": 29.5
+    }
+  ]
+}
