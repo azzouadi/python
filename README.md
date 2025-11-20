@@ -149,36 +149,4 @@ gestion d’une boucle de monitoring
 
     
     
-    SysWatch v4 – Version finale (POO + SQLite)
-
-Cette version finalise le projet avec :
-
-
-1. Programmation Orientée Objet
-
-SystemCollector → collecte des métriques
-
-SystemMetrics → structure de données
-
-utilisation de @dataclass
-
-
-2. Base de données SQLite
-
-insertion des métriques
-
-récupération des dernières valeurs
-
-statistiques sur 24h
-
-nettoyage automatique des anciennes données
-
-3. Application complète en ligne de commande
-
-Exemples :
-
-python syswatch_v4.py --collect --interval 60
-python syswatch_v4.py --stats --hours 12
-python syswatch_v4.py --export syswatch.json
-python syswatch_v4.py --cleanup 7
-
+   
