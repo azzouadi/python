@@ -107,7 +107,7 @@ structuration propre d’un projet Python
 
 Ajout de fonctionnalités avancées :
 
-🔹 Export des données
+     Export des données
 
 export CSV
 
@@ -115,13 +115,13 @@ export JSON
 
 accumulation des données dans le temps
 
-🔹 Statistiques
+     Statistiques
 
 CPU / RAM : moyenne, min, max
 
 détection de pics (> 80%)
 
-🔹 Mode collecte continue
+    Mode collecte continue
 
 intervalle paramétrable
 
@@ -129,7 +129,7 @@ nombre de collectes configurable
 
 interruption propre (Ctrl+C)
 
-🔹 CLI (arguments dans le terminal)
+    CLI (arguments dans le terminal)
 
 Exemples :
 
