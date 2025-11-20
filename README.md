@@ -182,6 +182,3 @@ python syswatch_v4.py --stats --hours 12
 python syswatch_v4.py --export syswatch.json
 python syswatch_v4.py --cleanup 7
 
-    Objectif final
-
-Être capable de créer un outil de monitoring système complet, structuré et maintenable.
